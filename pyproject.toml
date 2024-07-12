@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "sqlml-parser"
-version = "0.0.1a5"
+version = "0.0.1"
 authors = [
   { name="khulnasoft-bot", email="inrfo@khulnasoft.com" },
 ]
