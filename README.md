@@ -42,6 +42,4 @@ Query(query_body=QuerySpecification(select=Select(distinct=False, select_items=[
 ```
 ## Getting Started with SQL Parser Development
 
-English Document: [SQL Parser Development Guide](https://github.com/khulnasoft-lab/sqlml-parser/blob/main/docs/docs-en/SQL%20Parser%20Development%20Guide.md)
-
-中文文档：[SQL Parser 开发指南](https://github.com/khulnasoft-lab/sqlml-parser/blob/main/docs/docs-ch/SQL%20Parser%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.md)
+Document: [SQL Parser Development Guide](https://github.com/khulnasoft-lab/sqlml-parser/blob/main/docs/docs-en/SQL%20Parser%20Development%20Guide.md)

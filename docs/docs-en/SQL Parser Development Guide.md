@@ -253,9 +253,9 @@ result = mysql_parser.parse(sql)
 
 The execution result is shown in the following diagram, which depicts the execution plan tree for the SQL statement.
 
-![DELETE AST](../pictures/DELETE%20语法树.png)
+![DELETE AST](../pictures/DELETE.png)
 
 ## References
 
-* [TiDB 源码阅读系列文章（五）TiDB SQL Parser 的实现](https://cn.pingcap.com/blog/tidb-source-code-reading-5)
+* [TiDB SQL Parser](https://cn.pingcap.com/blog/tidb-source-code-reading-5)
 * [PLY](https://github.com/dabeaz/ply)
